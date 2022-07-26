@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tues1ConstrainLayout</string>
+    <string name="box0ne">Box One</string>
+    <string name="boxTwo">Box Two</string>
+    <string name="boxThree">Box Three</string>
+    <string name="boxFour">Box Four</string>
+    <string name="boxFive">Box Five</string>
+</resources>
